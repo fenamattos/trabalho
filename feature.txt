@@ -1,1 +1,2 @@
 O GitHub é uma das plataformas mais populares para armazenamento de projetos de código aberto e colaborações. As funcionalidades são muitas, aqui vamos tentar entender o que é necessário para começar a dar os primeiros passos nesse mundo de contribuições.Link completo para estudo https://escoladedados.org/tutoriais/introducao-ao-git-e-github-colaborando-com-projetos-de-codigo-aberto/
+"Mudan�a significativa feita pelo propriet�rio" 

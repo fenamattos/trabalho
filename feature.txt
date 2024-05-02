@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 O GitHub Ã© uma das plataformas mais populares para armazenamento de projetos de cÃ³digo aberto e colaboraÃ§Ãµes. As funcionalidades sÃ£o muitas, aqui vamos tentar entender o que Ã© necessÃ¡rio para comeÃ§ar a dar os primeiros passos nesse mundo de contribuiÃ§Ãµes.Link completo para estudo https://escoladedados.org/tutoriais/introducao-ao-git-e-github-colaborando-com-projetos-de-codigo-aberto/
 "Mudan‡a significativa feita pelo propriet rio" 
+"Mudan‡a significativa feita pelo propriet rio" 
+=======
+"Conte£do relevante da feature-x" 
+>>>>>>> 30c1dfa50f4ea9e7947425aa4298c72b4985f2c5
 "Mudan‡a significativa feita pelo propriet rio" 
